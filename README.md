@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hyungmin! 👋<br/> <a href="https://www.linkedin.com/in/joshmadakor/">Financial Analyst</a></h1>
-Coming soon...
+
 
 <h2>👨‍💻 Finance & Data Science Projects:</h2>
 Coming Soon...
