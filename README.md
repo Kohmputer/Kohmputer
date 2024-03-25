@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hyungmin! 👋<br/> <a href="https://www.linkedin.com/in/joshmadakor/">Aspiring Financial Analyst</a></h1>
+<h1>Hi, I'm Hyungmin! 👋<br/> <a href="https://www.linkedin.com/in/hmkoh94/">Always learning</a></h1>
 
 
 <h2>👨‍💻 Finance & Data Science Projects:</h2>
